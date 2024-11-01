@@ -1,0 +1,252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooVina Starter Sites\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-05 04:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Name of the plugin
+#: woovina-sites.php:20 inc/classes/class-install-demos.php:34
+#: inc/classes/class-install-demos.php:35
+#: inc/classes/class-install-demos.php:52
+msgid "WooVina Starter Sites"
+msgstr ""
+
+#: inc/demos.php:168 inc/demos.php:225 inc/demos.php:271 inc/demos.php:2680
+msgid "No plugin specified"
+msgstr ""
+
+#: inc/demos.php:210 inc/demos.php:285 inc/demos.php:2700
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: inc/demos.php:309
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: inc/demos.php:310
+msgid "Activating"
+msgstr ""
+
+#: inc/demos.php:311
+msgid "Active"
+msgstr ""
+
+#: inc/demos.php:348
+#, php-format
+msgid ""
+"%1$sWooVina Theme & Plugins%2$s needs to be install & active for you to use "
+"currently installed %3$s\"WooVina Starter Sites\"%4$s plugin. %5$sInstall & "
+"Activate Now%6$s"
+msgstr ""
+
+#: inc/demos.php:374
+msgid "Thanks for using WooVina Starter Sites"
+msgstr ""
+
+#: inc/demos.php:375
+msgid ""
+"Please activate your license to get feature updates, premium support and "
+"branding/copyright removal!"
+msgstr ""
+
+#: inc/demos.php:377
+#, php-format
+msgid ""
+"If you don't have any license key, you can %1$sget a FREE license here%2$s."
+msgstr ""
+
+#: inc/demos.php:381
+msgid "Activate Now"
+msgstr ""
+
+#: inc/demos.php:2478
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: inc/demos.php:2484
+#, php-format
+msgid ""
+"For your site to look exactly like this demo, the plugins below need to be "
+"activated. %1$sNOTE: You should install or activate only one plugin at a "
+"time!"
+msgstr ""
+
+#: inc/demos.php:2488
+msgid "WooVina Core"
+msgstr ""
+
+#: inc/demos.php:2488 inc/demos.php:2493 inc/demos.php:2499
+msgid "Ready"
+msgstr ""
+
+#: inc/demos.php:2493
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/demos.php:2499 inc/demos.php:2501
+msgid "Premium Plugins"
+msgstr ""
+
+#: inc/demos.php:2501
+msgid "Need Activate"
+msgstr ""
+
+#: inc/demos.php:2510
+msgid "Go to the next step"
+msgstr ""
+
+#: inc/demos.php:2519
+msgid "Select what you want to import:"
+msgstr ""
+
+#: inc/demos.php:2525
+msgid "Import XML Data"
+msgstr ""
+
+#: inc/demos.php:2525
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: inc/demos.php:2532
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: inc/demos.php:2539
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/demos.php:2547
+msgid "Import Contact Form"
+msgstr ""
+
+#: inc/demos.php:2556
+msgid "Install this demo"
+msgstr ""
+
+#: inc/demos.php:2561
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: inc/demos.php:2567
+msgid "Demo Imported!"
+msgstr ""
+
+#: inc/demos.php:2568
+msgid "But you need to replace URLs in Elementor"
+msgstr ""
+
+#: inc/demos.php:2570
+msgid "Old URL:"
+msgstr ""
+
+#: inc/demos.php:2571
+msgid "New URL:"
+msgstr ""
+
+#: inc/demos.php:2573
+msgid "Replace URLs"
+msgstr ""
+
+#: inc/demos.php:2582
+msgid "Demo is not Fully Imported!"
+msgstr ""
+
+#: inc/demos.php:2583
+msgid "See how to fix"
+msgstr ""
+
+#: inc/demos.php:2597
+msgid "Install & Activate"
+msgstr ""
+
+#: inc/demos.php:2601 inc/demos.php:2643
+msgid "Activated"
+msgstr ""
+
+#: inc/demos.php:2605
+msgid "WooVina Theme & Plugins"
+msgstr ""
+
+#: inc/demos.php:2632
+msgid "Activate"
+msgstr ""
+
+#: inc/demos.php:2638
+msgid "Install Now"
+msgstr ""
+
+#: inc/demos.php:2720
+msgid "Importing XML Data"
+msgstr ""
+
+#: inc/demos.php:2727
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: inc/demos.php:2734
+msgid "Importing Widgets"
+msgstr ""
+
+#: inc/demos.php:2741
+msgid "Importing Form"
+msgstr ""
+
+#: inc/demos.php:3107
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: inc/demos.php:3117
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: inc/demos.php:3128
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: inc/classes/class-install-demos.php:66
+msgid "All"
+msgstr ""
+
+#: inc/classes/class-install-demos.php:70
+msgid "Other"
+msgstr ""
+
+#: inc/classes/class-install-demos.php:74
+msgid "Search demos..."
+msgstr ""
+
+#: inc/classes/class-install-demos.php:107
+msgid "Live Preview"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Import free starter sites build with WordPress, WooCommerce, Elementor and "
+"WooVina theme."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://woovina.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "WooVina Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://woovina.com"
+msgstr ""
